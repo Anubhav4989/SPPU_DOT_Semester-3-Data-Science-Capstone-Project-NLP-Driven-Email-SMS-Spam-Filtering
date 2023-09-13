@@ -67,27 +67,3 @@ Our project uses NLP and machine learning to train a predictive model for classi
 
 **Dataset Expansion:**
 - Collect diverse samples of spam and non-spam emails to improve model generalization and robustness.
-
-## Applications
-
-This project has several practical applications:
-
-1. **Email Inbox Filtering:** Automatically sorts emails into folders like "Spam" and "Inbox," reducing manual sifting.
-
-2. **Protection from Phishing:** Identifies and moves phishing emails to the spam folder, protecting users from fraudulent messages.
-
-3. **Reducing Email Clutter:** Filters out spam and irrelevant emails, keeping inboxes clean and ensuring important messages are seen.
-
-4. **Saving Time:** Prevents wasting time on spam, enabling focus on more productive tasks.
-
-5. **Improved Email Security:** Identifies malicious links and attachments, preventing email-based malware or scams.
-
-6. **Customizable Alerts:** Allows setting up alerts for specific email types.
-
-7. **Better Productivity:** With an organized inbox, work becomes more efficient.
-
-8. **User-Friendly Experience:** Enhances overall email experience, making it hassle-free and secure.
-
-9. **Adaptive Learning:** Learns from user actions, improving email classification.
-
-10. **Scalable for Organizations:** Can be applied to organizational email systems, reducing security risks.
